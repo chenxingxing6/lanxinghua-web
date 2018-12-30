@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="lanxinghua-api:war">
-    <output-path>$PROJECT_DIR$/lanxinghua-api/target</output-path>
-    <root id="archive" name="lanxinghua-api.war">
-      <element id="artifact" artifact-name="lanxinghua-api:war exploded" />
-    </root>
-  </artifact>
-</component>
